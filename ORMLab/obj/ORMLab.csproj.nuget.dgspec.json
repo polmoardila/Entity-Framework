@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pau\\Documents\\Programacio\\ORMLab\\ORMLab\\ORMLab.csproj": {}
+    "C:\\Users\\Pau\\Documents\\Programacio\\ORMLab\\Entity-Framework\\ORMLab\\ORMLab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pau\\Documents\\Programacio\\ORMLab\\ORMLab\\ORMLab.csproj": {
+    "C:\\Users\\Pau\\Documents\\Programacio\\ORMLab\\Entity-Framework\\ORMLab\\ORMLab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pau\\Documents\\Programacio\\ORMLab\\ORMLab\\ORMLab.csproj",
+        "projectUniqueName": "C:\\Users\\Pau\\Documents\\Programacio\\ORMLab\\Entity-Framework\\ORMLab\\ORMLab.csproj",
         "projectName": "ORMLab",
-        "projectPath": "C:\\Users\\Pau\\Documents\\Programacio\\ORMLab\\ORMLab\\ORMLab.csproj",
+        "projectPath": "C:\\Users\\Pau\\Documents\\Programacio\\ORMLab\\Entity-Framework\\ORMLab\\ORMLab.csproj",
         "packagesPath": "C:\\Users\\Pau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pau\\Documents\\Programacio\\ORMLab\\ORMLab\\obj\\",
+        "outputPath": "C:\\Users\\Pau\\Documents\\Programacio\\ORMLab\\Entity-Framework\\ORMLab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pau\\AppData\\Roaming\\NuGet\\NuGet.Config"

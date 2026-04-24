@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mai9xix1u3c=",
+  "dgSpecHash": "scR5n4PNXyA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pau\\Documents\\Programacio\\ORMLab\\ORMLab\\ORMLab.csproj",
+  "projectFilePath": "C:\\Users\\Pau\\Documents\\Programacio\\ORMLab\\Entity-Framework\\ORMLab\\ORMLab.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pau\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.6\\microsoft.data.sqlite.core.10.0.6.nupkg.sha512",
     "C:\\Users\\Pau\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.6\\microsoft.entityframeworkcore.10.0.6.nupkg.sha512",
